@@ -121,7 +121,7 @@ Follow these steps to run the project on your local machine.
 6.  **(Optional) Run the Jupyter Notebook:**
     If you want to re-run the analysis or model training:
     ```bash
-    jupyter notebook notebooks/1_Fraud_Detection_EDA_and_Modeling.ipynb
+    jupyter notebook notebooks/Fraud_Detection.ipynb
     ```
 
 ## 7. 📸 Dashboard Demo
