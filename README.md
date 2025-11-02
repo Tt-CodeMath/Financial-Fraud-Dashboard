@@ -132,13 +132,13 @@ The Streamlit dashboard (`app/app.py`) showcases the project's analysis and mode
 * Displays the raw dataset.
 * Shows interactive charts (e.g., distribution of `step` or `type`).
 
-`![Data Analysis Tab](images/Tab1.png)`
+![Data Analysis Tab](images/Tab1.png)
 
 ### Tab 2: 📈 Model Evaluation
 * Displays the performance of the saved model on the test set.
 * Shows the **Confusion Matrix** and **Classification Report** (Precision, Recall, F1-Score).
 
-`![Model Evaluation Tab](images/Tab2.png)`
+![Model Evaluation Tab](images/Tab2.png)
 
 ### Tab 3: 🤖 Prediction (Work in Progress)
 * *This tab is currently under development.*
