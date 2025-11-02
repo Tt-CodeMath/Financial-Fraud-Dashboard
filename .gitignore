@@ -1,0 +1,12 @@
+# 1. Bỏ qua TẤT CẢ file .csv trong thư mục data
+/data/*.csv
+
+# 2. Bỏ qua các file cache và model (nếu model cũng lớn)
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+# /models/*.joblib  <-- Bỏ dấu # nếu file model của bạn cũng lớn (trên 50MB)
+
+# 3. Bỏ qua môi trường ảo
+venv/
+.env
